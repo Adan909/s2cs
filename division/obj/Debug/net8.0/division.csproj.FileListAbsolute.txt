@@ -12,3 +12,4 @@ C:\Users\labc112\Documents\s2\division\obj\Debug\net8.0\refint\division.dll
 C:\Users\labc112\Documents\s2\division\obj\Debug\net8.0\division.pdb
 C:\Users\labc112\Documents\s2\division\obj\Debug\net8.0\division.genruntimeconfig.cache
 C:\Users\labc112\Documents\s2\division\obj\Debug\net8.0\ref\division.dll
+C:\Users\labc112\Documents\s2\division\obj\Debug\net8.0\division.sourcelink.json

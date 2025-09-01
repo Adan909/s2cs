@@ -1,13 +1,19 @@
 ﻿
 int num1, num2;
-float division;
+int division = 0;
 
-Console.WriteLine("Digite un numero: ");
+Console.Write("Digite un numero: ");
 num1 = Convert.ToInt32(Console.ReadLine());
 
 Console.Write("Digite otro numero: ");
 num2 = Convert.ToInt32(Console.ReadLine());
+try
+{
+    division = num1 / num2;
+    Console.WriteLine($"{num1} / {num2} = {division}");
+}
+catch (DivideByZeroException)
+{
 
-division = (float)num1 / (float)num2;
-
-Console.WriteLine($"{num1} / {num2} = {division}");
+    Console.WriteLine($"{num1} / {num2} = {division}");
+}
