@@ -1,0 +1,15 @@
+C:\Users\labc112\Documents\s2cs\Try1\bin\Debug\net7.0\Try1.exe
+C:\Users\labc112\Documents\s2cs\Try1\bin\Debug\net7.0\Try1.deps.json
+C:\Users\labc112\Documents\s2cs\Try1\bin\Debug\net7.0\Try1.runtimeconfig.json
+C:\Users\labc112\Documents\s2cs\Try1\bin\Debug\net7.0\Try1.dll
+C:\Users\labc112\Documents\s2cs\Try1\bin\Debug\net7.0\Try1.pdb
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\Try1.csproj.AssemblyReference.cache
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\Try1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\Try1.AssemblyInfoInputs.cache
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\Try1.AssemblyInfo.cs
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\Try1.csproj.CoreCompileInputs.cache
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\Try1.dll
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\refint\Try1.dll
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\Try1.pdb
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\Try1.genruntimeconfig.cache
+C:\Users\labc112\Documents\s2cs\Try1\obj\Debug\net7.0\ref\Try1.dll

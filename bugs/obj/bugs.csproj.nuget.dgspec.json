@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labc112\\Documents\\s2cs\\division\\division.csproj": {}
+    "C:\\Users\\labc112\\Documents\\s2cs\\bugs\\bugs.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labc112\\Documents\\s2cs\\division\\division.csproj": {
+    "C:\\Users\\labc112\\Documents\\s2cs\\bugs\\bugs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labc112\\Documents\\s2cs\\division\\division.csproj",
-        "projectName": "division",
-        "projectPath": "C:\\Users\\labc112\\Documents\\s2cs\\division\\division.csproj",
+        "projectUniqueName": "C:\\Users\\labc112\\Documents\\s2cs\\bugs\\bugs.csproj",
+        "projectName": "bugs",
+        "projectPath": "C:\\Users\\labc112\\Documents\\s2cs\\bugs\\bugs.csproj",
         "packagesPath": "C:\\Users\\labc112\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labc112\\Documents\\s2cs\\division\\obj\\",
+        "outputPath": "C:\\Users\\labc112\\Documents\\s2cs\\bugs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

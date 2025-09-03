@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\labc112\\Documents\\s2cs\\division\\division.csproj": {}
+    "C:\\Users\\labc112\\Documents\\s2cs\\if3\\if3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\labc112\\Documents\\s2cs\\division\\division.csproj": {
+    "C:\\Users\\labc112\\Documents\\s2cs\\if3\\if3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\labc112\\Documents\\s2cs\\division\\division.csproj",
-        "projectName": "division",
-        "projectPath": "C:\\Users\\labc112\\Documents\\s2cs\\division\\division.csproj",
+        "projectUniqueName": "C:\\Users\\labc112\\Documents\\s2cs\\if3\\if3.csproj",
+        "projectName": "if3",
+        "projectPath": "C:\\Users\\labc112\\Documents\\s2cs\\if3\\if3.csproj",
         "packagesPath": "C:\\Users\\labc112\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\labc112\\Documents\\s2cs\\division\\obj\\",
+        "outputPath": "C:\\Users\\labc112\\Documents\\s2cs\\if3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -38,16 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -64,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
